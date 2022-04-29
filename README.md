@@ -1,41 +1,46 @@
 # **Takım İsmi**
 
-Takım X
+Googled App Yatch Club
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Onur Can Cansu: Product Owner
+- Canan Döşlü: Scrum Master
+- Dilara Pöl: Team Member/Developer
+- Haluk Oktay Okşar: Team Member/Developer
+- Zeynep Topuz: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+Adventures of The Legend Archer 2D
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+Mete'nin babasıyla birlikte çıktığı ticaret yolu, babasının borçları yüzünden ellerindekilerin alıkonulmasıyla zorlu bir maceraya dönüşür. 
+Korsanların elinden zor kurtulan Mete, korsanların düşürdüğü haritadaki yerlere gidip babasını aramalı ve babasını kurtarmak için bazı değerli parçaları toplamalıdır. 
+Mete, aynı zamanda çok iyi bir okçudur, buna güvenir ve yola çıkar.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Hareketli ve sabit hedeflere ok atma
+- Boss ile düello yapma
+- Marketplace üzerinden ekipman / item satışı
+- 2D
+- İleriki seviyelerde gizli portaller üzerinden yeni bir maceraya geçiş
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Arcade oyun severler
+- Platform oyun severler
+- Adventure oyun severler
+- 2D oyun severler
+- 7 yaş ve üzeri kullanıcılar
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Jira Backlog Board](https://googledapp.atlassian.net/jira/software/projects/GAYC/boards/1)
 
 ---
 
