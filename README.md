@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Googled App Yatch Club
+Googled App Yatch Club 
 
 # Ürün İle İlgili Bilgiler
 
